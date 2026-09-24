@@ -1,5 +1,3 @@
-# Hi, I'm Yesim
-
 Senior / Staff Software Engineer focused on full-stack, backend, platform, and applied AI engineering.
 
 I build production-oriented software across distributed systems, APIs, cloud platforms, workflow automation, and AI systems. My recent independent engineering work explores RAG, AI-agent observability, secure tool execution, LLM evaluation, guardrails, and agentic workflows.
